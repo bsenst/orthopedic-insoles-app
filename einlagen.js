@@ -35,24 +35,24 @@ const EINLAGEN_DATEN = [
     "einlage_typ": "Weichbettung",
     "vorrang": 3
   },
-  {
-    "ID": "005",
-    "befund": "Valgusfehlstellung",
-    "massnahme": "Mediale Randerhöhung",
-    "hmv": "",
-    "icd10": "M21.24",
-    "einlage_typ": "Stütze",
-    "vorrang": 2
-  },
-  {
-    "ID": "006",
-    "befund": "Varusfehlstellung",
-    "massnahme": "Laterale Randerhöhung",
-    "hmv": "",
-    "icd10": "M21.25",
-    "einlage_typ": "Stütze",
-    "vorrang": 2
-  },
+  // {
+  //   "ID": "005",
+  //   "befund": "Valgusfehlstellung",
+  //   "massnahme": "Mediale Randerhöhung",
+  //   "hmv": "",
+  //   "icd10": "M21.24",
+  //   "einlage_typ": "Stütze",
+  //   "vorrang": 2
+  // },
+  // {
+  //   "ID": "006",
+  //   "befund": "Varusfehlstellung",
+  //   "massnahme": "Laterale Randerhöhung",
+  //   "hmv": "",
+  //   "icd10": "M21.25",
+  //   "einlage_typ": "Stütze",
+  //   "vorrang": 2
+  // },
   {
     "ID": "007",
     "befund": "Beinlängendifferenz",
