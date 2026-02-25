@@ -35,26 +35,8 @@ const EINLAGEN_DATEN = [
     "einlage_typ": "Weichbettung",
     "vorrang": 3
   },
-  // {
-  //   "ID": "005",
-  //   "befund": "Valgusfehlstellung",
-  //   "massnahme": "Mediale Randerhöhung",
-  //   "hmv": "",
-  //   "icd10": "M21.24",
-  //   "einlage_typ": "Stütze",
-  //   "vorrang": 2
-  // },
-  // {
-  //   "ID": "006",
-  //   "befund": "Varusfehlstellung",
-  //   "massnahme": "Laterale Randerhöhung",
-  //   "hmv": "",
-  //   "icd10": "M21.25",
-  //   "einlage_typ": "Stütze",
-  //   "vorrang": 2
-  // },
   {
-    "ID": "007",
+    "ID": "005",
     "befund": "Beinlängendifferenz",
     "massnahme": "Einseitige Fersen-/Sohlenerhöhung",
     "hmv": "",
@@ -63,7 +45,7 @@ const EINLAGEN_DATEN = [
     "vorrang": 2
   },
   {
-    "ID": "008",
+    "ID": "006",
     "befund": "Plattfuß",
     "massnahme": "Längsgewölbestütze",
     "hmv": "08.03.02.2",
@@ -72,7 +54,7 @@ const EINLAGEN_DATEN = [
     "vorrang": 2
   },
   {
-    "ID": "009",
+    "ID": "007",
     "befund": "Rückfußinstabilität",
     "massnahme": "Rückfußführung",
     "hmv": "08.03.02.2",
@@ -81,7 +63,7 @@ const EINLAGEN_DATEN = [
     "vorrang": 2
   },
   {
-    "ID": "010",
+    "ID": "008",
     "befund": "Metatarsalgie",
     "massnahme": "Weichbettung im Vorfußbereich",
     "hmv": "08.03.02.1",
@@ -90,7 +72,7 @@ const EINLAGEN_DATEN = [
     "vorrang": 3
   },
   {
-    "ID": "011",
+    "ID": "009",
     "befund": "Achillodynie",
     "massnahme": "Fersenweichbettung",
     "hmv": "08.03.02.1",
@@ -99,12 +81,30 @@ const EINLAGEN_DATEN = [
     "vorrang": 3
   },
   {
-    "ID": "012",
+    "ID": "010",
     "befund": "Verkürzte Achillessehne",
     "massnahme": "Fersenerhöhung",
     "hmv": "",
     "icd10": "M67.88",
     "einlage_typ": "Stütze",
     "vorrang": 2
-  }
+  },
+  // {
+  //   "ID": "011",
+  //   "befund": "Valgusfehlstellung",
+  //   "massnahme": "Mediale Randerhöhung",
+  //   "hmv": "",
+  //   "icd10": "M21.24",
+  //   "einlage_typ": "Stütze",
+  //   "vorrang": 2
+  // },
+  // {
+  //   "ID": "012",
+  //   "befund": "Varusfehlstellung",
+  //   "massnahme": "Laterale Randerhöhung",
+  //   "hmv": "",
+  //   "icd10": "M21.25",
+  //   "einlage_typ": "Stütze",
+  //   "vorrang": 2
+  // },
 ];
