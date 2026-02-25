@@ -88,23 +88,5 @@ const EINLAGEN_DATEN = [
     "icd10": "M67.88",
     "einlage_typ": "Stütze",
     "vorrang": 2
-  },
-  // {
-  //   "ID": "011",
-  //   "befund": "Valgusfehlstellung",
-  //   "massnahme": "Mediale Randerhöhung",
-  //   "hmv": "",
-  //   "icd10": "M21.24",
-  //   "einlage_typ": "Stütze",
-  //   "vorrang": 2
-  // },
-  // {
-  //   "ID": "012",
-  //   "befund": "Varusfehlstellung",
-  //   "massnahme": "Laterale Randerhöhung",
-  //   "hmv": "",
-  //   "icd10": "M21.25",
-  //   "einlage_typ": "Stütze",
-  //   "vorrang": 2
-  // },
+  }
 ];
