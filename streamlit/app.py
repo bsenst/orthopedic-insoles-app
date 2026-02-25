@@ -30,6 +30,8 @@ for befund in befund_namen:
     if st.sidebar.checkbox(befund, key=befund):
         selected_befunde.append(befund)
 
+st.sidebar.markdown("<small>Ursprung: [dideldei/orthopedic-insoles-app](https://github.com/dideldei/orthopedic-insoles-app)</small>", unsafe_allow_html=True)
+
 selected_findings = [item for item in EINLAGEN_DATEN if item["befund"] in selected_befunde]
 
 def get_highest_priority_finding(findings):
